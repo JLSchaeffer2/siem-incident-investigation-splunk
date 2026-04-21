@@ -85,3 +85,9 @@ To investigate suspicious activity across cloud and endpoint environments by ana
 - Log Correlation (Cloud, Endpoint, Network)
 - Pattern Recognition & Anomaly Detection
 - OSINT & Threat Intelligence
+
+- ## Supporting Material
+
+For representative Splunk queries used during this investigation, see:
+
+[queries.md](./queries.md)
